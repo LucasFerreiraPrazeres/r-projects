@@ -1,35 +1,35 @@
-PING dftex7xfha8fh.cloudfront.net (96.16.63.12) 56(84) bytes of data.
-64 bytes from a96-16-63-12.deploy.static.akamaitechnologies.com (96.16.63.12): icmp_seq=1 ttl=49 time=21.4 ms
-64 bytes from a96-16-63-12.deploy.static.akamaitechnologies.com (96.16.63.12): icmp_seq=2 ttl=49 time=64.6 ms
-64 bytes from a96-16-63-12.deploy.static.akamaitechnologies.com (96.16.63.12): icmp_seq=3 ttl=49 time=29.2 ms
-64 bytes from a96-16-63-12.deploy.static.akamaitechnologies.com (96.16.63.12): icmp_seq=4 ttl=49 time=73.9 ms
-64 bytes from a96-16-63-12.deploy.static.akamaitechnologies.com (96.16.63.12): icmp_seq=5 ttl=49 time=41.2 ms
-64 bytes from a96-16-63-12.deploy.static.akamaitechnologies.com (96.16.63.12): icmp_seq=6 ttl=49 time=39.8 ms
-64 bytes from a96-16-63-12.deploy.static.akamaitechnologies.com (96.16.63.12): icmp_seq=7 ttl=49 time=22.4 ms
-64 bytes from a96-16-63-12.deploy.static.akamaitechnologies.com (96.16.63.12): icmp_seq=8 ttl=49 time=31.2 ms
-64 bytes from a96-16-63-12.deploy.static.akamaitechnologies.com (96.16.63.12): icmp_seq=9 ttl=49 time=24.7 ms
-64 bytes from a96-16-63-12.deploy.static.akamaitechnologies.com (96.16.63.12): icmp_seq=10 ttl=49 time=49.0 ms
-64 bytes from a96-16-63-12.deploy.static.akamaitechnologies.com (96.16.63.12): icmp_seq=11 ttl=49 time=17.5 ms
-64 bytes from a96-16-63-12.deploy.static.akamaitechnologies.com (96.16.63.12): icmp_seq=12 ttl=49 time=83.5 ms
-64 bytes from a96-16-63-12.deploy.static.akamaitechnologies.com (96.16.63.12): icmp_seq=13 ttl=49 time=16.4 ms
-64 bytes from a96-16-63-12.deploy.static.akamaitechnologies.com (96.16.63.12): icmp_seq=14 ttl=49 time=70.3 ms
-64 bytes from a96-16-63-12.deploy.static.akamaitechnologies.com (96.16.63.12): icmp_seq=15 ttl=49 time=26.7 ms
-64 bytes from a96-16-63-12.deploy.static.akamaitechnologies.com (96.16.63.12): icmp_seq=16 ttl=49 time=24.0 ms
-64 bytes from a96-16-63-12.deploy.static.akamaitechnologies.com (96.16.63.12): icmp_seq=17 ttl=49 time=15.1 ms
-64 bytes from a96-16-63-12.deploy.static.akamaitechnologies.com (96.16.63.12): icmp_seq=18 ttl=49 time=17.6 ms
-64 bytes from a96-16-63-12.deploy.static.akamaitechnologies.com (96.16.63.12): icmp_seq=19 ttl=49 time=18.9 ms
-64 bytes from a96-16-63-12.deploy.static.akamaitechnologies.com (96.16.63.12): icmp_seq=20 ttl=49 time=41.2 ms
-64 bytes from a96-16-63-12.deploy.static.akamaitechnologies.com (96.16.63.12): icmp_seq=21 ttl=49 time=25.7 ms
-64 bytes from a96-16-63-12.deploy.static.akamaitechnologies.com (96.16.63.12): icmp_seq=22 ttl=49 time=22.2 ms
-64 bytes from a96-16-63-12.deploy.static.akamaitechnologies.com (96.16.63.12): icmp_seq=23 ttl=49 time=23.8 ms
-64 bytes from a96-16-63-12.deploy.static.akamaitechnologies.com (96.16.63.12): icmp_seq=24 ttl=49 time=80.9 ms
-64 bytes from a96-16-63-12.deploy.static.akamaitechnologies.com (96.16.63.12): icmp_seq=25 ttl=49 time=19.2 ms
-64 bytes from a96-16-63-12.deploy.static.akamaitechnologies.com (96.16.63.12): icmp_seq=26 ttl=49 time=34.4 ms
-64 bytes from a96-16-63-12.deploy.static.akamaitechnologies.com (96.16.63.12): icmp_seq=27 ttl=49 time=37.9 ms
-64 bytes from a96-16-63-12.deploy.static.akamaitechnologies.com (96.16.63.12): icmp_seq=28 ttl=49 time=45.5 ms
-64 bytes from a96-16-63-12.deploy.static.akamaitechnologies.com (96.16.63.12): icmp_seq=29 ttl=49 time=15.4 ms
-64 bytes from a96-16-63-12.deploy.static.akamaitechnologies.com (96.16.63.12): icmp_seq=30 ttl=49 time=21.9 ms
+PING dftex7xfha8fh.cloudfront.net (108.139.134.29) 56(84) bytes of data.
+64 bytes from server-108-139-134-29.for50.r.cloudfront.net (108.139.134.29): icmp_seq=1 ttl=242 time=15.4 ms
+64 bytes from server-108-139-134-29.for50.r.cloudfront.net (108.139.134.29): icmp_seq=2 ttl=242 time=14.7 ms
+64 bytes from server-108-139-134-29.for50.r.cloudfront.net (108.139.134.29): icmp_seq=3 ttl=242 time=13.7 ms
+64 bytes from server-108-139-134-29.for50.r.cloudfront.net (108.139.134.29): icmp_seq=4 ttl=242 time=14.0 ms
+64 bytes from server-108-139-134-29.for50.r.cloudfront.net (108.139.134.29): icmp_seq=5 ttl=242 time=14.6 ms
+64 bytes from server-108-139-134-29.for50.r.cloudfront.net (108.139.134.29): icmp_seq=6 ttl=242 time=14.3 ms
+64 bytes from server-108-139-134-29.for50.r.cloudfront.net (108.139.134.29): icmp_seq=7 ttl=242 time=14.4 ms
+64 bytes from server-108-139-134-29.for50.r.cloudfront.net (108.139.134.29): icmp_seq=8 ttl=242 time=14.8 ms
+64 bytes from server-108-139-134-29.for50.r.cloudfront.net (108.139.134.29): icmp_seq=9 ttl=242 time=13.4 ms
+64 bytes from server-108-139-134-29.for50.r.cloudfront.net (108.139.134.29): icmp_seq=10 ttl=242 time=13.2 ms
+64 bytes from server-108-139-134-29.for50.r.cloudfront.net (108.139.134.29): icmp_seq=11 ttl=242 time=14.4 ms
+64 bytes from server-108-139-134-29.for50.r.cloudfront.net (108.139.134.29): icmp_seq=12 ttl=242 time=14.1 ms
+64 bytes from server-108-139-134-29.for50.r.cloudfront.net (108.139.134.29): icmp_seq=13 ttl=242 time=13.9 ms
+64 bytes from server-108-139-134-29.for50.r.cloudfront.net (108.139.134.29): icmp_seq=14 ttl=242 time=13.9 ms
+64 bytes from server-108-139-134-29.for50.r.cloudfront.net (108.139.134.29): icmp_seq=15 ttl=242 time=12.7 ms
+64 bytes from server-108-139-134-29.for50.r.cloudfront.net (108.139.134.29): icmp_seq=16 ttl=242 time=12.5 ms
+64 bytes from server-108-139-134-29.for50.r.cloudfront.net (108.139.134.29): icmp_seq=17 ttl=242 time=14.2 ms
+64 bytes from server-108-139-134-29.for50.r.cloudfront.net (108.139.134.29): icmp_seq=18 ttl=242 time=13.6 ms
+64 bytes from server-108-139-134-29.for50.r.cloudfront.net (108.139.134.29): icmp_seq=19 ttl=242 time=13.9 ms
+64 bytes from server-108-139-134-29.for50.r.cloudfront.net (108.139.134.29): icmp_seq=20 ttl=242 time=13.5 ms
+64 bytes from server-108-139-134-29.for50.r.cloudfront.net (108.139.134.29): icmp_seq=21 ttl=242 time=13.9 ms
+64 bytes from server-108-139-134-29.for50.r.cloudfront.net (108.139.134.29): icmp_seq=22 ttl=242 time=14.8 ms
+64 bytes from server-108-139-134-29.for50.r.cloudfront.net (108.139.134.29): icmp_seq=23 ttl=242 time=14.9 ms
+64 bytes from server-108-139-134-29.for50.r.cloudfront.net (108.139.134.29): icmp_seq=24 ttl=242 time=14.5 ms
+64 bytes from server-108-139-134-29.for50.r.cloudfront.net (108.139.134.29): icmp_seq=25 ttl=242 time=13.7 ms
+64 bytes from server-108-139-134-29.for50.r.cloudfront.net (108.139.134.29): icmp_seq=26 ttl=242 time=13.4 ms
+64 bytes from server-108-139-134-29.for50.r.cloudfront.net (108.139.134.29): icmp_seq=27 ttl=242 time=14.1 ms
+64 bytes from server-108-139-134-29.for50.r.cloudfront.net (108.139.134.29): icmp_seq=28 ttl=242 time=14.5 ms
+64 bytes from server-108-139-134-29.for50.r.cloudfront.net (108.139.134.29): icmp_seq=29 ttl=242 time=14.5 ms
+64 bytes from server-108-139-134-29.for50.r.cloudfront.net (108.139.134.29): icmp_seq=30 ttl=242 time=14.1 ms
 
 --- dftex7xfha8fh.cloudfront.net ping statistics ---
-30 packets transmitted, 30 received, 0% packet loss, time 29054ms
-rtt min/avg/max/mdev = 15.073/35.176/83.451/19.990 ms
+30 packets transmitted, 30 received, 0% packet loss, time 29042ms
+rtt min/avg/max/mdev = 12.497/14.049/15.372/0.621 ms
